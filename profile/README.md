@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://devs_in_exile.codeberg.page/">
-  <img src="./assets/banner.png" alt="Devs In Exile Studio — independent games, thoughtfully made" width="100%">
+  <img src="../assets/banner.png" alt="Devs In Exile Studio — independent games, thoughtfully made" width="100%">
 </a>
 
 <p><strong>Small studio. Thoughtful games. One more round.</strong></p>
